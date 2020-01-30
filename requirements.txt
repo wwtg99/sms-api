@@ -1,0 +1,6 @@
+flask
+flask-restful
+click
+envparse
+gunicorn
+aliyun-python-sdk-core-v3
